@@ -1,5 +1,7 @@
 # PledgeTrace
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24590059.svg)](https://doi.org/10.5281/zenodo.24590059)
+
 **Traceable extraction of policy proposals from electoral manifestos.**
 
 PledgeTrace turns a manifesto in PDF into a table of policy proposals. Each proposal is
@@ -100,7 +102,8 @@ uv sync
 
 ## Citation
 
-If you use PledgeTrace, please cite this repository and the release you used.
+If you use PledgeTrace, please cite the release you used. Version 1.0.0 is archived on
+Zenodo: [doi:10.5281/zenodo.24590059](https://doi.org/10.5281/zenodo.24590059).
 
 ## License
 
