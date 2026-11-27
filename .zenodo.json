@@ -1,0 +1,25 @@
+{
+  "title": "PledgeTrace: Traceable Extraction of Policy Proposals from Electoral Manifestos",
+  "upload_type": "software",
+  "description": "<p>PledgeTrace turns electoral manifestos in PDF into tables of policy proposals. Python reconstructs the document into numbered text units with their source locations; a language model selects the identifiers of headings and proposals; Python assembles each proposal from the extracted text, keeping its page, units, character offsets and bounding box. Prompts, model answers and run metadata are stored for inspection, comparison across models and evaluation against manual annotations.</p>",
+  "creators": [
+    {
+      "name": "Picazo-Sanchez, Pablo",
+      "affiliation": "University of Murcia",
+      "orcid": "0000-0002-0303-3858"
+    },
+    {
+      "name": "Ortiz-Martin, Lara",
+      "orcid": "0000-0002-4389-1232"
+    }
+  ],
+  "license": "agpl-3.0-or-later",
+  "access_right": "open",
+  "keywords": [
+    "electoral manifestos",
+    "policy proposals",
+    "information extraction",
+    "PDF",
+    "large language models"
+  ]
+}
