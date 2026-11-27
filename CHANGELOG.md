@@ -7,7 +7,7 @@ the command line; minor versions add features; patch versions fix bugs.
 When a change alters the reconstructed text, the linearizer version is increased. Runs
 record the linearizer version they used, and older reconstructions stay cached.
 
-## [1.0.0] - unreleased
+## [1.0.0] - 2026-11-27
 
 First public release, described in the SoftwareX paper.
 
