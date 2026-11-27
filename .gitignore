@@ -1,0 +1,19 @@
+__pycache__/
+*.py[oc]
+build/
+dist/
+*.egg-info
+.venv/
+.ruff_cache/
+.DS_Store
+
+# Project data and outputs: never committed
+data/
+runs/
+corpus.csv
+examples/*/pdf/
+examples/*/runs/
+examples/*/corpus.csv
+
+.env
+.env.*
